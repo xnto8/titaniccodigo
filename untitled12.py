@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1-d_DKwEXY4gkFfU6qqvsZF83ZZ6TMhzZ
 """
 
-!pip install streamlit # This line installs streamlit if you haven't already
-
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
